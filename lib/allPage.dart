@@ -57,8 +57,7 @@ class __PageAwalState extends State<_PageAwal> {
                       style: TextStyle(
                           fontWeight: FontWeight.bold,
                           color: Colors.white,
-                          fontSize: 12
-                          .0),
+                          fontSize: 12.0),
                     ),
                   ))),
         ],
@@ -335,7 +334,6 @@ class _PageWahanaState extends State<PageWahana> {
         ],
       ),
     );
-    ;
   }
 }
 
